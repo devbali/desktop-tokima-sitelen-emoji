@@ -9,7 +9,7 @@ Scripts to enable desktop users to type in Sitelen Emoji, using simple autocorre
 ## MacOS
 - Download this repository as a zip (and extract)
 - Double click the `default.inputplugin` script in the MacOSX folder to make it run (You might have to give it some permissions in order to do so)
-- There should be a "Sitelen Emoji" Keyboard in your list of installed keyboards
+- There should be a "Toki Ma Sitelen Emoji" Keyboard in your list of installed keyboards
 - To use it, switch to that keyboard and type, and switch back to your regular keyboard when needed
 
 ## Linux
@@ -17,5 +17,5 @@ Scripts to enable desktop users to type in Sitelen Emoji, using simple autocorre
 - If not, install by `sudo apt-get install ibus ibus-clutter ibus-gtk ibus-gtk3 ibus-qt4 ibus-table`
 - Download this repository as a zip (and extract). Then run the command `sudo ibus-table-createdb -n /usr/share/ibus-table/tables/tokimasitelenemoji.db -s Linux/default_ibus.txt` from the directory you extracted to
 - Now that the the extension has been installed, run `ibus-daemon -drx` or restart your machine
-- This enables you to run `ibus-setup` to complete the setup. There should be an option for a "Sitelen Emoji" keyboard under "English (US)." Select and install the keyboard
+- This enables you to run `ibus-setup` to complete the setup. There should be an option for a "Toki Ma Sitelen Emoji" keyboard under "English (US)." Select and install the keyboard
 - To use Sitelen Emoji, switch to that keyboard and type, and switch back to your regular keyboard when needed
