@@ -62,7 +62,7 @@ ilo	⚙️	1
 in	📍	1
 inkatan	📌	1
 insa	⏺️	1
-intawo	🏝	1
+intawo	🏝️	1
 ita	🔽	1
 jaki	💩	1
 jan	👤	1
@@ -123,7 +123,7 @@ loje	🔴	1
 lon	✔️	1
 luka	✋	1
 lukin	👀	1
-lupa	🕳	1
+lupa	🕳️	1
 ma	🌍	1
 majuna	👵	1
 mama	👪	1
@@ -136,7 +136,7 @@ mijon	⬛	1
 mila	◻️	1
 mina	👈🤙	1
 minuto	🔢⏰	1
-moku	🍽	1
+moku	🍽️	1
 moli	💀	1
 monsi	⬅️	1
 monsuta	👹	1
@@ -149,7 +149,7 @@ nalama	🧸	1
 namako	🧂	1
 nanpa	#️⃣	1
 nasa	🌀	1
-nasin	🛣	1
+nasin	🛣️	1
 nena	🗻	1
 nesi	🌌	1
 ni	👇	1
@@ -210,7 +210,7 @@ sike	⭕	1
 sin	🎁	1
 sina	👉🤙	1
 sinpin	➡️	1
-sitelen	🖼	1
+sitelen	🖼️	1
 siten	🪑	1
 soko	🍄	1
 sona	🧠	1
@@ -237,7 +237,7 @@ tenpo	⏰	1
 tima	🦠	1
 titi	🤱	1
 tiwata	🍸	1
-toki	🗣	1
+toki	🗣️	1
 tolu	🧪	1
 tomo	🏠	1
 tonsi	♐	1

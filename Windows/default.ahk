@@ -51,7 +51,7 @@ colon:
 :OC:in::{U+1f4cd}
 :OC:inkatan::{U+1f4cc}
 :OC:insa::{U+23fa}{U+fe0f}
-:OC:intawo::{U+1f3dd}
+:OC:intawo::{U+1f3dd}{U+fe0f}
 :OC:ita::{U+1f53d}
 :OC:jaki::{U+1f4a9}
 :OC:jan::{U+1f464}
@@ -112,7 +112,7 @@ colon:
 :OC:lon::{U+2714}{U+fe0f}
 :OC:luka::{U+270b}
 :OC:lukin::{U+1f440}
-:OC:lupa::{U+1f573}
+:OC:lupa::{U+1f573}{U+fe0f}
 :OC:ma::{U+1f30d}
 :OC:majuna::{U+1f475}
 :OC:mama::{U+1f46a}
@@ -125,7 +125,7 @@ colon:
 :OC:mila::{U+25fb}{U+fe0f}
 :OC:mina::{U+1f448}{U+1f919}
 :OC:minuto::{U+1f522}{U+23f0}
-:OC:moku::{U+1f37d}
+:OC:moku::{U+1f37d}{U+fe0f}
 :OC:moli::{U+1f480}
 :OC:monsi::{U+2b05}{U+fe0f}
 :OC:monsuta::{U+1f479}
@@ -138,7 +138,7 @@ colon:
 :OC:namako::{U+1f9c2}
 :OC:nanpa::{U+23}{U+fe0f}{U+20e3}
 :OC:nasa::{U+1f300}
-:OC:nasin::{U+1f6e3}
+:OC:nasin::{U+1f6e3}{U+fe0f}
 :OC:nena::{U+1f5fb}
 :OC:nesi::{U+1f30c}
 :OC:ni::{U+1f447}
@@ -199,7 +199,7 @@ colon:
 :OC:sin::{U+1f381}
 :OC:sina::{U+1f449}{U+1f919}
 :OC:sinpin::{U+27a1}{U+fe0f}
-:OC:sitelen::{U+1f5bc}
+:OC:sitelen::{U+1f5bc}{U+fe0f}
 :OC:siten::{U+1fa91}
 :OC:soko::{U+1f344}
 :OC:sona::{U+1f9e0}
@@ -226,7 +226,7 @@ colon:
 :OC:tima::{U+1f9a0}
 :OC:titi::{U+1f931}
 :OC:tiwata::{U+1f378}
-:OC:toki::{U+1f5e3}
+:OC:toki::{U+1f5e3}{U+fe0f}
 :OC:tolu::{U+1f9ea}
 :OC:tomo::{U+1f3e0}
 :OC:tonsi::{U+2650}
