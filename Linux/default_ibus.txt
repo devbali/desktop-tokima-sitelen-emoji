@@ -255,7 +255,7 @@ satalan	🔵	1
 sawapu	📩	1
 seli	♨️	1
 seme	❓	1
-senti		1
+senti	*️⃣	1
 sepen	7️⃣	1
 sesi	6️⃣	1
 sewi	🛐	1

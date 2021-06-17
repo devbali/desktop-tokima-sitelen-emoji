@@ -284,7 +284,7 @@ Numpad9::
 :OC:sawapu::{U+1f4e9}
 :OC:seli::{U+2668}{U+fe0f}
 :OC:seme::{U+2753}
-:OC:senti::
+:OC:senti::{U+2a}{U+fe0f}{U+20e3}
 :OC:sepen::{U+37}{U+fe0f}{U+20e3}
 :OC:sesi::{U+36}{U+fe0f}{U+20e3}
 :OC:sewi::{U+1f6d0}
