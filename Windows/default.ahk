@@ -26,9 +26,60 @@ colon:
 	send {U+2797}
 	return
 
+Numpad0::
+0::
+	send 0{U+FE0F}{U+20E3}
+	return
+
+Numpad1::
+1::
+	send 1{U+FE0F}{U+20E3}
+	return
+
+Numpad2::
+2::
+	send 2{U+FE0F}{U+20E3}
+	return
+
+Numpad3::
+3::
+	send 3{U+FE0F}{U+20E3}
+	return
+
+Numpad4::
+4::
+	send 4{U+FE0F}{U+20E3}
+	return
+
+Numpad5::
+5::
+	send 5{U+FE0F}{U+20E3}
+	return
+
+Numpad6::
+6::
+	send 6{U+FE0F}{U+20E3}
+	return
+
+Numpad7::
+7::
+	send 7{U+FE0F}{U+20E3}
+	return
+
+Numpad8::
+8::
+	send 8{U+FE0F}{U+20E3}
+	return
+
+Numpad9::
+9::
+	send 9{U+FE0F}{U+20E3}
+	return
+
 :OC:a::{U+2757}
 :OC:aja::{U+1f9ec}
 :OC:ajuta::{U+1f6a8}
+:OC:aka::{U+26c5}
 :OC:aketi::{U+1f98e}
 :OC:akile::{U+23ed}{U+fe0f}
 :OC:alasa::{U+1f3f9}
@@ -50,13 +101,17 @@ colon:
 :OC:ewin::{U+1f485}
 :OC:ike::{U+1f44e}
 :OC:ilo::{U+2699}{U+fe0f}
-:OC:iman::{U+1f91d}
+:OC:iman::{U+1f9d1}{U+200d}{U+1f91d}{U+200d}{U+1f9d1}
 :OC:inkatan::{U+1f4cc}
 :OC:inpali::{U+1f33c}
 :OC:insa::{U+23fa}{U+fe0f}
+:OC:intisa::{U+231a}
 :OC:into::{U+1f3dd}{U+fe0f}
+:OC:iputu::{U+23ef}{U+fe0f}
+:OC:isala::{U+1f4a2}
 :OC:ita::{U+1f53d}
 :OC:jaki::{U+1f4a9}
+:OC:jala::{U+1f4ca}
 :OC:jan::{U+1f464}
 :OC:janwa::{U+1f996}
 :OC:jatila::{U+1f645}
@@ -66,6 +121,7 @@ colon:
 :OC:jun::{U+1fab6}
 :OC:jupa::{U+1f91c}
 :OC:kaje::{U+1f333}
+:OC:kake::{U+1f44f}
 :OC:kala::{U+1f41f}
 :OC:kalama::{U+1f508}
 :OC:kalite::{U+1f3f7}{U+fe0f}
@@ -76,25 +132,33 @@ colon:
 :OC:kanputa::{U+1f4bb}
 :OC:kanti::{U+1f3b5}
 :OC:kanun::{U+1f4dc}
+:OC:kapesi::{U+1f36a}
 :OC:kasi::{U+1f331}
+:OC:kata::{U+1f4c9}
 :OC:keke::{U+1f435}
+:OC:kela::{U+26bd}
 :OC:ken::{U+1f4aa}
-:OC:kenta::{U+1f4af}
+:OC:kenta::{U+31}{U+fe0f}{U+20e3}{U+30}{U+fe0f}{U+20e3}{U+30}{U+fe0f}{U+20e3}
 :OC:ki::{U+21aa}{U+fe0f}
+:OC:kika::{U+31}{U+fe0f}{U+20e3}{U+30}{U+fe0f}{U+20e3}{U+30}{U+fe0f}{U+20e3}{U+1f538}{U+30}{U+fe0f}{U+20e3}{U+30}{U+fe0f}{U+20e3}{U+30}{U+fe0f}{U+20e3}{U+1f538}{U+30}{U+fe0f}{U+20e3}{U+30}{U+fe0f}{U+20e3}{U+30}{U+fe0f}{U+20e3}
 :OC:kikolo::{U+1f623}
 :OC:kili::{U+1f34e}
-:OC:kini::{U+1f38b}
+:OC:kilo::
 :OC:kipisi::{U+2702}{U+fe0f}
 :OC:kisa::{U+1f4f0}
 :OC:kita::{U+1f98f}
-:OC:kitanu::{U+1f9a0}
 :OC:kiwen::{U+1f48e}
 :OC:ko::{U+1f366}
+:OC:kokan::{U+1f938}
+:OC:komumo::{U+1f64c}
 :OC:kon::{U+1f4a8}
 :OC:kona::{U+1f4d0}
+:OC:konta::{U+1f913}
 :OC:kule::{U+1f308}
 :OC:kulupu::{U+1f465}
 :OC:kumi::{U+1f388}
+:OC:kuton::{U+1f915}
+:OC:kuwan::{U+1f4a1}
 :OC:la::{U+1f53c}
 :OC:lajo::{U+1f4e2}
 :OC:lakima::{U+1f62d}
@@ -111,12 +175,12 @@ colon:
 :OC:li::{U+25b6}{U+fe0f}
 :OC:lika::{U+1f4dd}
 :OC:lili::{U+1f40c}
+:OC:lima::{U+35}{U+fe0f}{U+20e3}
 :OC:linja::{U+3030}{U+fe0f}
 :OC:lipu::{U+1f4c4}
 :OC:liso::{U+1f923}
 :OC:loje::{U+1f353}
 :OC:lon::{U+2705}
-:OC:lu::{U+35}{U+fe0f}{U+20e3}
 :OC:luka::{U+270b}
 :OC:lukin::{U+1f440}
 :OC:lupa::{U+1f573}{U+fe0f}
@@ -127,11 +191,10 @@ colon:
 :OC:matija::{U+1f948}
 :OC:mawon::{U+1f343}
 :OC:meja::{U+1f431}
+:OC:meka::{U+31}{U+fe0f}{U+20e3}{U+1f538}{U+30}{U+fe0f}{U+20e3}{U+30}{U+fe0f}{U+20e3}{U+30}{U+fe0f}{U+20e3}{U+1f538}{U+30}{U+fe0f}{U+20e3}{U+30}{U+fe0f}{U+20e3}{U+30}{U+fe0f}{U+20e3}
 :OC:meli::{U+2640}{U+fe0f}
 :OC:mi::{U+1f448}
 :OC:mije::{U+2642}{U+fe0f}
-:OC:mijon::{U+2b1b}
-:OC:mila::{U+25fb}{U+fe0f}
 :OC:minsu::{U+26a1}
 :OC:misa::{U+1f439}
 :OC:misali::{U+1f38f}
@@ -139,9 +202,11 @@ colon:
 :OC:moli::{U+1f480}
 :OC:monsi::{U+2b05}{U+fe0f}
 :OC:monsuta::{U+1f628}
+:OC:moto::{U+1f525}
 :OC:mu::{U+1f42e}
 :OC:mulu::{U+1f315}
 :OC:mun::{U+1f319}
+:OC:munkin::{U+1f3b2}
 :OC:musi::{U+1f3a8}
 :OC:mute::{U+1f450}
 :OC:na::{U+1f446}
@@ -150,9 +215,10 @@ colon:
 :OC:nanpa::{U+23}{U+fe0f}{U+20e3}
 :OC:nasa::{U+1f300}
 :OC:nasin::{U+1f6e3}{U+fe0f}
+:OC:nata::{U+1f587}{U+fe0f}
 :OC:neje::{U+1f434}
 :OC:nen::{U+2935}{U+fe0f}
-:OC:nena::{U+1f5fb}
+:OC:nena::{U+1f443}
 :OC:nesi::{U+1f30c}
 :OC:newen::{U+39}{U+fe0f}{U+20e3}
 :OC:ni::{U+1f447}
@@ -164,7 +230,7 @@ colon:
 :OC:oke::{U+1f44c}
 :OC:oliwa::{U+1f6e2}{U+fe0f}
 :OC:on::{U+261d}{U+fe0f}
-:OC:one::{U+1f915}
+:OC:one::{U+1f912}
 :OC:open::{U+1f513}
 :OC:osa::{U+1f9e9}
 :OC:oto::{U+38}{U+fe0f}{U+20e3}
@@ -174,12 +240,16 @@ colon:
 :OC:palisa::{U+1f4cf}
 :OC:pan::{U+1f35e}
 :OC:pana::{U+1f4e4}
+:OC:papon::{U+1f92e}
 :OC:pasan::{U+1f600}
-:OC:pata::{U+1f9d1}{U+200d}{U+1f91d}{U+200d}{U+1f9d1}
+:OC:pati::{U+1f973}
 :OC:patila::{U+1f646}
+:OC:pawita::{U+1f35a}
 :OC:pawo::{U+1f436}
 :OC:peko::{U+1f64f}
 :OC:pelu::{U+1f527}
+:OC:peman::{U+1f91d}
+:OC:penke::{U+1f4c6}
 :OC:pesoni::{U+1fa79}
 :OC:peta::{U+1f966}
 :OC:pi::{U+23f9}{U+fe0f}
@@ -193,6 +263,7 @@ colon:
 :OC:po::{U+34}{U+fe0f}{U+20e3}
 :OC:poka::{U+2194}{U+fe0f}
 :OC:pona::{U+1f44d}
+:OC:popoto::{U+1f5fb}
 :OC:posi::{U+1f31a}
 :OC:powe::{U+1f9de}
 :OC:pulono::{U+1f475}
@@ -200,16 +271,22 @@ colon:
 :OC:puson::{U+1f64b}
 :OC:putala::{U+1f9d2}
 :OC:sa::{U+1f41a}
+:OC:sajo::{U+1f504}
+:OC:saku::{U+1f5f3}{U+fe0f}
+:OC:sala::{U+269b}{U+fe0f}
 :OC:sama::{U+2696}{U+fe0f}
 :OC:san::{U+33}{U+fe0f}{U+20e3}
 :OC:sankan::{U+203c}{U+fe0f}
+:OC:santi::{U+1f60c}
 :OC:sapi::{U+1f9fc}
 :OC:sata::{U+1f4c8}
-:OC:seki::{U+36}{U+fe0f}{U+20e3}
-:OC:seli::{U+1f525}
+:OC:satalan::{U+1f535}
+:OC:sawapu::{U+1f4e9}
+:OC:seli::{U+2668}{U+fe0f}
 :OC:seme::{U+2753}
+:OC:senti::
 :OC:sepen::{U+37}{U+fe0f}{U+20e3}
-:OC:sese::{U+1f5f3}{U+fe0f}
+:OC:sesi::{U+36}{U+fe0f}{U+20e3}
 :OC:sewi::{U+1f6d0}
 :OC:si::{U+1f449}
 :OC:sike::{U+2b55}
@@ -219,14 +296,16 @@ colon:
 :OC:sitelen::{U+1f5bc}{U+fe0f}
 :OC:siten::{U+1fa91}
 :OC:soko::{U+1f344}
+:OC:solu::{U+1f9d0}
 :OC:sona::{U+1f9e0}
 :OC:soto::{U+1f91b}
 :OC:soweli::{U+1f437}
-:OC:su::{U+1f504}
+:OC:su::{U+1f4f6}
 :OC:sulaki::{U+262e}{U+fe0f}
 :OC:suli::{U+1f418}
 :OC:suno::{U+2600}{U+fe0f}
 :OC:supa::{U+1f6cf}{U+fe0f}
+:OC:suti::{U+1f50d}
 :OC:suwi::{U+1f36d}
 :OC:ta::{U+1fa9e}
 :OC:tajan::{U+1f621}
@@ -239,16 +318,21 @@ colon:
 :OC:tapa::{U+1f4e6}
 :OC:taso::{U+1f3dc}{U+fe0f}
 :OC:tawa::{U+1f686}
+:OC:tawonje::{U+1fac2}
 :OC:te::{U+23f8}{U+fe0f}
 :OC:telo::{U+1f4a7}
-:OC:ten::{U+1f932}
+:OC:ten::{U+31}{U+fe0f}{U+20e3}{U+30}{U+fe0f}{U+20e3}
 :OC:tenpo::{U+23f0}
+:OC:tepaka::{U+1f529}
 :OC:tewe::{U+1f9f2}
+:OC:tijan::{U+1f9d8}
 :OC:tijelo::{U+1f9cd}
 :OC:tile::{U+1f422}
 :OC:tini::{U+1f999}
 :OC:tinto::{U+1f442}
+:OC:tisi::{U+1f39b}{U+fe0f}
 :OC:titi::{U+1f931}
+:OC:tiwa::{U+1f9d7}
 :OC:tiwata::{U+1f378}
 :OC:toki::{U+1f5e3}{U+fe0f}
 :OC:tolu::{U+1f9ea}
@@ -256,14 +340,19 @@ colon:
 :OC:tonsi::{U+26a7}{U+fe0f}
 :OC:tote::{U+1f90f}
 :OC:tu::{U+32}{U+fe0f}{U+20e3}
+:OC:tula::{U+1f680}
+:OC:tuntan::{U+1f4af}
 :OC:tutu::{U+1f493}
+:OC:ukumu::{U+1f6ce}{U+fe0f}
 :OC:ulokan::{U+1fa99}
 :OC:umami::{U+1f356}
+:OC:unja::{U+1f957}
 :OC:unpa::{U+1f346}
 :OC:uta::{U+1f444}
 :OC:utala::{U+2694}{U+fe0f}
 :OC:wa::{U+1f95a}
 :OC:walaja::{U+1f632}
+:OC:walala::{U+1f46f}
 :OC:walo::{U+1f9c4}
 :OC:wan::{U+31}{U+fe0f}{U+20e3}
 :OC:waso::{U+1f985}
@@ -277,6 +366,9 @@ colon:
 :OC:wisaja::{U+1f3c6}
 :OC:woka::{U+23f3}
 :OC:wolin::{U+1f495}
+:OC:_::{U+1f523}
+:OC:.::{U+1f536}
+:OC:,::{U+1f538}
 :OC:Akanisan::{U+1f1e6}{U+1f1eb}
 :OC:Olan::{U+1f1e6}{U+1f1fd}
 :OC:Sipe::{U+1f1e6}{U+1f1f1}
