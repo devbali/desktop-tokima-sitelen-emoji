@@ -1,7 +1,7 @@
 
 #NoEnv ; For security
 #SingleInstance force
-Hotkey ,, comma
+Hotkey `,, comma
 Hotkey ., period
 Hotkey _, underscore
 
