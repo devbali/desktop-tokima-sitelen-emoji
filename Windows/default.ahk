@@ -1,7 +1,7 @@
 
 #NoEnv ; For security
 #SingleInstance force
-Hotkey :, colon
+Hotkey ,, comma
 Hotkey ., period
 Hotkey _, underscore
 
@@ -19,11 +19,11 @@ underscore:
 	return
 
 period:
-	send {U+2796}
+	send {U+D83D}{U+DD36}
 	return
 
-colon:
-	send {U+2797}
+comma:
+	send {U+D83D}{U+DD38}
 	return
 
 Numpad0::
