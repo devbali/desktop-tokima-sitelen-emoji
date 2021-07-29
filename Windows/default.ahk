@@ -4,6 +4,7 @@
 Hotkey `,, comma
 Hotkey ., period
 Hotkey _, underscore
+Hotkey ", quote
 
 toggle := false
 return
@@ -15,7 +16,11 @@ F2::
 #If toggle
 
 underscore:
-	send {U+1f523}
+	send {U+1F523}
+	return
+
+quote:
+	send {U+1F521}
 	return
 
 period:
@@ -369,6 +374,7 @@ Numpad9::
 :OC:_::{U+1f523}
 :OC:.::{U+1f536}
 :OC:,::{U+1f538}
+:OC:"::{U+1f521}
 :OC:Akanisan::{U+1f1e6}{U+1f1eb}
 :OC:Olan::{U+1f1e6}{U+1f1fd}
 :OC:Sipe::{U+1f1e6}{U+1f1f1}

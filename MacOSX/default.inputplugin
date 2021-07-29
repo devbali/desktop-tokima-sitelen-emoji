@@ -69,7 +69,7 @@ MAXINPUTCODE: 8
 
 #
 
-VALIDINPUTKEY: 0123456789-ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz.,_
+VALIDINPUTKEY: 0123456789-ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz.,_"
 
 #
 
@@ -91,6 +91,7 @@ BEGINCHARACTER
 _ 🔣
 , 🔸
 . 🔶
+" 🔡
 0 0️⃣
 1 1️⃣
 2 2️⃣
@@ -395,6 +396,7 @@ wolin 💕
 _ 🔣
 . 🔶
 , 🔸
+" 🔡
 Akanisan 🇦🇫
 Olan 🇦🇽
 Sipe 🇦🇱
